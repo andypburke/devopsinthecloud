@@ -1,3 +1,5 @@
+# Andrew Burke 3rd Oct
+
 require 'rubygems'
 require 'aws-sdk'
 load '/usr/share/tomcat6/scripts/config/aws.config'
